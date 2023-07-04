@@ -1,0 +1,9 @@
+FROM openjdk:8
+
+LABEL authors="guoshunfa"
+
+COPY . /usr/src/myapp
+WORKDIR /usr/src/myapp
+
+EXPOSE 9991
+ENTRYPOINT ["java", "-jar", "panda.jar"]
