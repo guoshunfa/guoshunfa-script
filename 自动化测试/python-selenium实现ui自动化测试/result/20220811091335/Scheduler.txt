@@ -1,0 +1,4 @@
+2022-08-11 09:13:35,946 : INFO : <module> : Python Scheduler version is Rel.2018030801 
+2022-08-11 09:13:35,948 : INFO : <module> : Local python versio is 3.9.10 (main, Jan 15 2022, 11:48:00) 
+[Clang 13.0.0 (clang-1300.0.29.3)]
+2022-08-11 09:13:42,357 : INFO : test_baidu : Input search str

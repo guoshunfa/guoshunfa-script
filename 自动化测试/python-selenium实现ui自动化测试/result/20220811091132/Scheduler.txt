@@ -1,0 +1,3 @@
+2022-08-11 09:11:32,209 : INFO : <module> : Python Scheduler version is Rel.2018030801 
+2022-08-11 09:11:32,210 : INFO : <module> : Local python versio is 3.9.10 (main, Jan 15 2022, 11:48:00) 
+[Clang 13.0.0 (clang-1300.0.29.3)]
